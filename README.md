@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @fiap-ovc
+- 👀 I’m interested in AI, DS and Front-end coding
+- 🌱 I’m currently learning AI and Cloud foundations in 1st year @ FIAP (Sao Paulo / Brazil)
+- 💞️ I’m looking to collaborate on time series forecasting
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I already changed my profession 3 times
